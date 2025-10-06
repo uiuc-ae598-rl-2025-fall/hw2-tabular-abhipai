@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qZAaOmzv)
-# HW2 - Tabular Methods
+# HW2 - Tabular Methods 
 
 ## What to do
 
@@ -45,7 +45,7 @@ You can do this by:
 7. Click the "Create pull request" button.
 8. Click the "Create pull request" button again on the next page.
 
-## Resources
+## Free Resources
 
 Here are some resources that may be helpful:
 - A classic reference on writing code: [The Art of Readable Code (Boswell and Foucher, O'Reilly, 2012)](https://mcusoft.files.wordpress.com/2015/04/the-art-of-readable-code.pdf)
